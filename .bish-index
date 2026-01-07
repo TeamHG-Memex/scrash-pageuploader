@@ -1,0 +1,6 @@
+./setup.py
+./README.md
+./pageuploader/html.py
+./pageuploader/__init__.py
+./pageuploader/screenshots.py
+./tests/test_pageuploader.py
